@@ -3,8 +3,7 @@
 - 프로메테우스 사용해 모니터링하기 위한 애플리케이션으로, 간단하게 유저 생성/조회/삭제 로직 구현
 
 ## :octocat: 프로젝트 정보
-- 개발 도구 : `SpringBoot`, `JPA`, `MYSQL`, `Prometheus`, `grafana`, `Docker`, `Nginx`
-
+- 개발 도구 : `SpringBoot`, `JPA`, `MYSQL`, `Prometheus`, `grafana`, `Docker`, `Nginx`, `Jmeter`
 
 ## :hammer: 백엔드 아키텍처
 ![image](https://github.com/user-attachments/assets/a7233ae9-c278-44e8-9761-030350284907)
